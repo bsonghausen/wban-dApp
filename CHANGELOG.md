@@ -1,6 +1,9 @@
 # v2.1.1
+## Bugs
+- History page: wrong dates for unwraps #95
+- Updated SpookySwap URL #96
 ## Improvements
-- Updated Fantom 'Add Liquidity' button to use new SpookySwap URL
+- Swaps page: load tokens list faster
 
 # v2.1.0
 ## Improvements
